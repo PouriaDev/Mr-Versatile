@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "" --Your telegram bot api key
+  telegram_api_key: "211351713:AAH1UX0yRCS6Kw4u3DQ_5atcoPa-bB2C2So" --Your telegram bot api key
   insta_api_key: "" --http://bit.ly/1SWWkeY
   google_api_key: "" -- http://bit.ly/1VuH0Hl
   lastfm_api_key: "5f166c9b0cc3fbf96804db38a6c9ff05" --http://bit.ly/1ZjSy04
@@ -9,9 +9,7 @@ _ =
   screenshotmachine_api_key: "b645b8"
   cli_port: 7731
   admins: {
-    110626080
-    123456789
-    --your id
+    175636120
   }
   plugs: {
     "9gag"
@@ -61,5 +59,8 @@ _ =
     "who"
     "wikipedia"
     --"youtube"
+    "bold"
+    "italic"
+    "music"
   }
 return _
