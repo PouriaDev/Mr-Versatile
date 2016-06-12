@@ -12,10 +12,8 @@ run = (msg,matches) ->
 	return text
 return {
         patterns: {
-	  "^[!/](music) (.*)$"
-	  "^[!/](music)$"
+	  "^[!/#](music) (.*)$"
+	  "^[!/#](music)$"
         }
         :run
   }
-
--- @GPMod
