@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "211351713:AAH1UX0yRCS6Kw4u3DQ_5atcoPa-bB2C2So" --Your telegram bot api key
+  telegram_api_key: "224659523:AAG8DtCg_xlEB3W_W7z3QDFMaKu2MKQ2Cgs" --Your telegram bot api key
   insta_api_key: "" --http://bit.ly/1SWWkeY
   google_api_key: "" -- http://bit.ly/1VuH0Hl
   lastfm_api_key: "5f166c9b0cc3fbf96804db38a6c9ff05" --http://bit.ly/1ZjSy04
@@ -11,6 +11,11 @@ _ =
   admins: {
     175636120
     179980428
+    219339258
+    215429119
+    216885968
+    187769689
+    1165472
   }
   plugs: {
     "9gag"
