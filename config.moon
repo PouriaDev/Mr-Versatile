@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "193425779:AAErXSBzgfLLYP_vtkDi7x42Egso2rtkjzY" --Your telegram bot api key
+  telegram_api_key: "224659523:AAG8DtCg_xlEB3W_W7z3QDFMaKu2MKQ2Cgs" --Your telegram bot api key
   insta_api_key: "" --http://bit.ly/1SWWkeY
   google_api_key: "" -- http://bit.ly/1VuH0Hl
   lastfm_api_key: "5f166c9b0cc3fbf96804db38a6c9ff05" --http://bit.ly/1ZjSy04
@@ -10,7 +10,11 @@ _ =
   cli_port: 7731
   admins: {
     175636120
-    214795464
+    219339258
+    119989724
+    187769689
+    216885968
+    1165472
 
   }
   plugs: {
