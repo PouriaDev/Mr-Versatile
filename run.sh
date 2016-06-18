@@ -1,7 +1,7 @@
 ver="1.0"
 if [ "$1" = "--help" ]; then
   echo -e "
-        \033[31;47mEMC Robot\033[0m
+        \033[31;47mApi Robot\033[0m
 
               \033[5mV $ver\033[0m
 
@@ -17,9 +17,9 @@ if [ "$1" = "--help" ]; then
 elif [ "$1" = "--about" ]; then
   echo -e "
 
-        \033[31;47mEMC Robot\033[0m
+        \033[31;47mApi Robot\033[0m
 
-         By EMC Team
+         By @Ww_Developer_wW
 
               \033[5mV $ver\033[0m
 
@@ -33,9 +33,9 @@ elif [ "$1" = "--Update" ]; then
 else
   echo -e "
 
-        \033[31;47mEMC Robot\033[0m
+        \033[31;47mApi Robot\033[0m
 
-         By EMC Team
+         By @Ww_Developer_wW
 
               \033[5mV $ver\033[0m
 "
