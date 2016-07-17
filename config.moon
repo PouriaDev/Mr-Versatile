@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "260060201:AAGlpuofa40533Ji2dVCOaeQvjMFoIsApVw" --Your telegram bot api key
+  telegram_api_key: "252878811:AAFG9CUkmM3op32O6e6fXjunVMpBLxuFuCE" --Your telegram bot api key
   insta_api_key: "" --http://bit.ly/1SWWkeY
   google_api_key: "" -- http://bit.ly/1VuH0Hl
   lastfm_api_key: "5f166c9b0cc3fbf96804db38a6c9ff05" --http://bit.ly/1ZjSy04
@@ -10,53 +10,31 @@ _ =
   cli_port: 7731
   admins: {
     175636120
-    219339258
-    119989724
-    187769689
-    216885968
-    1165472
+    198794027
 
   }
   plugs: {
-    "9gag"
     "admin"
-    "anime"
     "calculator"
-    "cat"
-    "chatter"
     "code"
-    "currency"
-    "dogify"
     "echo"
-    "fortune"
     "get"
-    "giphy"
     "github"
     "google"
     "greeting"
     "help"
-    "imdb"
     "instagram"
     "ipinfo"
-    "lastfm"
     "linkshortener"
-    "lmgtfy"
     "location"
     "me"
     "meme"
-    "moon"
     "qrcode"
-    "reactions"
-    "reddit"
-    "remind"
     "set"
-    "shell"
-    "slap"
     "spotify"
     "stats"
     "sticker"
     "talk"
-    "telegramCli"
     "time"
     "translate"
     "urbandictionary"
@@ -64,7 +42,6 @@ _ =
     "webshot"
     "who"
     "wikipedia"
-    "youtube"
     "bold"
     "italic"
     "music"
