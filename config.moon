@@ -45,5 +45,6 @@ _ =
     "bold"
     "italic"
     "music"
+    "reactions"
   }
 return _
