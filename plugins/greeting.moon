@@ -6,7 +6,7 @@ greetings =
 	"Hi `%s` !
 I'm `#{bot_first_name}`
 A multi purpose Telegram bot based on
-[Jack telegram bot](https://github.com/SEEDTEAM/jack-telegram-bot) | @imandabot": "^[!/#]about$"
+[Mr.Versatile Bot](https://github.com/PouriaDev/Mr-Versatile) | @Mr_Versatile_Bot": "^[!/#]about$"
 --Plz do not remove the repo url :^)
 run = (msg,matches) ->
 	for k,v in pairs greetings
